@@ -1,4 +1,4 @@
-use whitespace_tokenizer::{whitespace_tokenize, Token};
+use whitespace_tokenizer::{Token, whitespace_tokenize};
 
 struct TestCase<'a> {
     description: &'a str,

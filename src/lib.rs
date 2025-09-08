@@ -179,4 +179,3 @@ fn process_repeated_punctuation(
 
     Token::new(repeated_text, start_pos, end_pos)
 }
-
