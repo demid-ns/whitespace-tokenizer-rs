@@ -1,0 +1,13 @@
+[package]
+name = "whitespace-tokenizer"
+version = "1.0.0"
+edition = "2024"
+description = "A simple whitespace tokenizer created for learning Rust - not intended for practical use"
+license = "MIT"
+authors = ["https://github.com/demid-ns"]
+readme = "README.md"
+repository = "https://github.com/demid-ns/whitespace-tokenizer-rs"
+keywords = ["tokenizer", "learning", "rust", "whitespace"]
+categories = ["text-processing"]
+
+[dependencies]
